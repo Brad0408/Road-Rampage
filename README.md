@@ -8,6 +8,7 @@ As such I have no idea how I would be able to compile this on visual studio, but
 
 For Code - ([Main Game.py](https://github.com/Brad0408/Road-Rampage/blob/main/Main%20Game.py) has all the code for this game)
 
+## Gameplay
 
 <ins> I also have an old recording of gameplay which can be view here ! - </ins>
 
